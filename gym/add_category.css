@@ -1,0 +1,42 @@
+
+
+
+.back_box{
+    width: 300px;
+    height: 500px;
+    border-radius: 40px 0px;
+    background-color:blanchedalmond;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+table{
+    font-size: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 50px;
+}
+
+tr{
+    display: grid;
+    grid-template-columns: 180px;
+}
+
+
+input{
+    width: 200px;
+    border-radius: 20px;
+}
+
+lable{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    margin-top: 20px;
+    width: 200px;
+    border-radius: 20px;
+}

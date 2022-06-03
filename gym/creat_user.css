@@ -1,0 +1,39 @@
+/* Creat user */
+
+.title{
+    width: 150px;
+    height: 50px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.back-form{
+    width: 500px;
+    height: 500px;
+    background-color: aliceblue;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+
+
+table tr td{
+    display: grid;
+    grid-template-columns: 200px;
+}
+
+form{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+
+lable{
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+}

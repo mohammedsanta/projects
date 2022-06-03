@@ -1,0 +1,16 @@
+
+
+
+.box_header{
+    background-color: aqua;
+    width: 100%;
+    height: 50px;
+    font-size: 30px;
+    display: grid;
+    grid-template-columns: repeat(8,auto);
+}
+
+
+a{
+    text-decoration: none;
+}

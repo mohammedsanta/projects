@@ -1,0 +1,48 @@
+
+
+
+h1{
+    width: 158px;
+    height: 47px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    font-size: 40px;
+}
+
+
+.add{
+    text-decoration: none;
+    font-size: 30px;
+}
+
+
+
+table{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+thead{
+    background-color: #04AA6D;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+table tr{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+
+table tr td{
+    width: 200px;
+    height: 39px;
+}
+
+input{
+    width: 200px;
+}
